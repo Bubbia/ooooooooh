@@ -1,4 +1,4 @@
-# ooooooooh
+# Pastel Theme
 Pastel Theme
 /**
 * @name Pastel Theme
