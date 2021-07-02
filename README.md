@@ -1,10 +1,9 @@
 # ooooooooh
 Pastel Theme
 /**
-* @name Something Im Editing
-* @author Nyria#3863
-* @description A theme based on @Melonturtle_ stream design
-* @invite rtBQX5D3bD
+* @name Pastel Theme
+* @author Bubbiaaa#0215
+* @description A theme based on Pastel colours
 * @version 1.0
 */
 @import url("https://nyri4.github.io/LilyPichu/main.css");
